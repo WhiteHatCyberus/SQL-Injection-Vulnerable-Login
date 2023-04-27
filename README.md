@@ -1,5 +1,5 @@
 # SQL-Injection-Vulnerable-Login
-*Status*: In Progress
+**Status**: In Progress
 ![f1](https://user-images.githubusercontent.com/70995581/233904518-8eae5480-3388-43f3-bd9f-0741252dee91.png)
 - This repo intends to help security researchers implement sql injection techniques on their local host or target system.
 - The website is built using basic html, css and js , additionally with a mysql server in the backend to validate login. This is intended to be hosted on a Apache2 port 80 webserver.
